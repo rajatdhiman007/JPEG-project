@@ -1,0 +1,7 @@
+{
+	"name": "JPEG_project",
+    "require": {
+        "weidner/goutte": "^1.0",
+        "fabpot/goutte": "^3.2"
+    }
+}
